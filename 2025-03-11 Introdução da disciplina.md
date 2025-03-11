@@ -9,5 +9,4 @@
 > Validação: ver se é o que o cliente precisa
 ## Execução
 
-
 ## Finalização

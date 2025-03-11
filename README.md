@@ -1,9 +1,9 @@
 ![](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
-| Horários        | Seg | Ter | Qua | Qui   | Sex     |
-| --------------- | --- | --- | --- | ----- | ------- |
-| `19:20 - 21:00` | ``  | ``  | ``  | `PEX` | `AG II` |
-| `21:10 - 22:50` | ``  | ``  | ``  | `PEX` | `BD II` |
+| Horários        | Seg   | Ter   | Qua   | Qui   | Sex     |
+| --------------- | ----- | ----- | ----- | ----- | ------- |
+| `19:20 - 21:00` | `EMP` | `APS` | `OOP` | `PEX` | `AG II` |
+| `21:10 - 22:50` | `CAL` | `ARQ` | `OOP` | `PEX` | `BD II` |
 
 ```dataview
 TABLE WITHOUT ID
