@@ -3,7 +3,7 @@
 ## Estruturação, Execução e Finalização
 
 Planejamento
-	- Definição de metas, objetivos, escopo, elicitação de requisitos
+- Definição de metas, objetivos, escopo, elicitação de requisitos
 
 > [!NOTE] 
 > Verificação: ver se está correto
