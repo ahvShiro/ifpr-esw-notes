@@ -1,5 +1,7 @@
-**Matéria:** [[APS]]
-**Tópicos:** #projetos #engenharia
+
+Matéria: [[APS]]
+Tópicos: #projetos #engenharia
+
 ## Estruturação, Execução e Finalização
 
 Planejamento
@@ -8,6 +10,7 @@ Planejamento
 > [!NOTE] 
 > Verificação: ver se está correto
 > Validação: ver se é o que o cliente precisa
+
 ## Reflexão
 
 1. A avaliação tem o objetivo de medir o desempenho dos alunos. Você acha que é justo avaliar todo o aprendizado de um aluno em um único dia? Por quê? Quais poderiam ser alternativas mais eficazes?
@@ -19,8 +22,8 @@ Planejamento
 3. Entre uma única avaliação e o estudo contínuo, qual desses métodos você acredita ser (1) o mais fácil para aprovação e o (2) mais eficiente para o aprendizado? Justifique sua resposta.
 
 - as
-## 
-1. Senior
-2. Dev
-3. Junior
-4. Estagiário
+## Auto-avaliação 
+A. Senior 
+B. Dev
+C. Junior
+D. Estagiário
