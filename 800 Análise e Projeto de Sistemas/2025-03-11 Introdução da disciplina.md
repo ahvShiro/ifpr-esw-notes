@@ -19,7 +19,7 @@ Planejamento
 	- Uma recuperação seria uma segunda chance para 
 
 3. Entre uma única avaliação e o estudo contínuo, qual desses métodos você acredita ser (1) o mais fácil para aprovação e o (2) mais eficiente para o aprendizado? Justifique sua resposta.
-	- Para a aprovação do aluno, o mais fácil é a avaliação de um dia, pois em um único dia você já é avaliado e 
+	- Para a aprovação do aluno, o mais fácil é a avaliação de um dia, pois em um único dia você já é avaliado e possivelmente aprovado. No estudo contínuo, você precisa ser consistente o tempo todo, e isso não é fácil. Porém, o aprendizado adquirido pelo aluno é 100x melhor do que com uma avaliação única
 
 ## Auto-avaliação 
 A. Senior 
