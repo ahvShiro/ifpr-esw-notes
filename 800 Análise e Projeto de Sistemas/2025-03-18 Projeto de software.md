@@ -86,4 +86,16 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 
 ### Modelo Incremental
 - Definem o MVP
-- Quebra o 
+- Quebra o produto em pedaços menores para 
+  
+  TODO anotar mais tarde
+
+### Modelo espiral
+- Foco em interação entre todas as partes envolvidas a cada entrega
+- Cada fase tem uma entrega e uma reunião com o 
+
+### Metodologia ágil
+- Interativo incremental fazendo entregas constantes significativas
+- 4 valores fundamentais e 12 princípios
+	- Macete: Cliente -> Equipe -> Processo -> Software pronto
+	- Cliente primeiro, equipe depois, 
