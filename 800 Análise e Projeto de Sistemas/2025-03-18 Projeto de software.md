@@ -68,7 +68,7 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 
 ## Avaliação
 
-### Ap
+### Existe apenas um ciclo
 1. Levantamento de dados 
 2. Análise de requisitos
 3. Modelagem de software (Projeto de software)
@@ -76,3 +76,14 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 5. Testes
 6. Implantação (Launch, produção)
 7. Manutenção
+
+
+> [!NOTE] Existem vários processos/metodologias, mas apenas um CICLO (Tudo com o mesmo nome)
+
+### Modelo Cascata
+- Uma fase após a outra
+- Se houver um erro em uma fase final, o projeto inteiro precisa voltar para aquela fase antes de prosseguir
+
+### Modelo Incremental
+- Definem o MVP
+- Quebra o 
