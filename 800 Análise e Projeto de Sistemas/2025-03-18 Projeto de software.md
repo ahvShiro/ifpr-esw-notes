@@ -1,5 +1,5 @@
 **Matéria:** [[APS]]
-**Tópicos:** #atividade_em_equipe #SDLC 
+**Tópicos:** #atividade_em_equipe #SDLC #modelos_de_software#
 
 ## Atividade em equipe
 
@@ -13,3 +13,15 @@ Tema: Projeto de Software
 
 ## Pesquisa
 
+TODO: 
+
+
+## Avaliação
+
+1. Levantamento de dados 
+2. Análise de requisitos
+3. Modelagem de software (Projeto de software)
+4. Implementação
+5. Testes
+6. Implantação (Launch, produção)
+7. Manutenção
