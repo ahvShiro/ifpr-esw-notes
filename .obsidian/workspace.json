@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 Análise e Projeto de Sistemas/APS.md",
+                "file": "800 Análise e Projeto de Sistemas/2025-03-18.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "APS"
+              "title": "2025-03-18"
             }
           }
         ]
@@ -210,17 +210,18 @@
   },
   "active": "5429f8c2626a9713",
   "lastOpenFiles": [
+    "800 Análise e Projeto de Sistemas/2025-03-11 Introdução da disciplina.md",
+    "800 Análise e Projeto de Sistemas/2025-03-18.md",
+    "800 Análise e Projeto de Sistemas/APS.md",
+    "README.md",
     "700 Projeto de Extensão/Fichamento Pesquisa/Untitled.md",
     "Clippings/Bluetooth Troubleshooting.md",
     "Clippings",
     "700 Projeto de Extensão/Untitled.md",
-    "README.md",
     "700 Projeto de Extensão/Fichamento Pesquisa",
     "700 Projeto de Extensão/2025-03-07 TODO Relatório.md",
     "700 Projeto de Extensão/PEX.md",
     "400 Arquitetura de Computadores/2025-03-11 Sistemas numéricos.md",
-    "2025-03-11 Introdução da disciplina.md",
-    "800 Análise e Projeto de Sistemas/APS.md",
     "700 Projeto de Extensão/2025-03-06 Fichamento de fontes.md",
     "700 Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
     "500 Banco de Dados II/2025-03-07.md",
@@ -237,7 +238,6 @@
     "Untitled (259th copy).md",
     "Untitled (258th copy).md",
     "Untitled (257th copy).md",
-    "Untitled (256th copy).md",
     "0. Assets/Untitled",
     "000 Assets/Templates",
     "000 Assets",
