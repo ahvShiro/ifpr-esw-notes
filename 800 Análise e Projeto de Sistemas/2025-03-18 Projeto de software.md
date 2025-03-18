@@ -12,7 +12,6 @@ Tema: Projeto de Software
 - Fazer a análise
 
 ## Pesquisa
-## Pesquisa
 
 ### Fontes:
 - *Engenharia de Software*, Ian Sommerville  
@@ -27,7 +26,7 @@ Os exemplos de ciclos de vida de desenvolvimento de software (SDLC) escolhidos p
 ### Análise  
 Analisando os SDLCs escolhidos, verificamos que nos modelos:  
 
-#### **Cascata**  
+#### Cascata
 **Fases:**  
 - Planejamento ou Levantamento de Requisitos  
 - Análise  
@@ -42,8 +41,7 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 - **Execução:** Implementação e Testes.  
 - **Finalização:** Implantação e Manutenção.  
 
-
-#### **Incremental**  
+#### Incremental
 **Fases:**  
 - Planejamento e Levantamento de Requisitos  
 - Projeto Inicial e Planejamento dos Incrementos  
@@ -58,7 +56,7 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 - **Finalização:** Implantação de Incrementos, Revisão e Ajustes finais.  
 
 
-#### **Espiral**  
+#### Espiral  
 **Fases:**  
 - Planejamento e Levantamento de Requisitos  
 - Análise Inicial e Planejamento dos Incrementos  
