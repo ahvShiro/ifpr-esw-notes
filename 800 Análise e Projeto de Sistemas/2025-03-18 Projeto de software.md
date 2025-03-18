@@ -108,5 +108,3 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 	4. Software: Software funcional acima de documentação extensiva
 - Existem processos auxiliares para a execução da metodologia ágil
 	- Kanban, Scrum, XP, etc, são ***apenas*** ferramentas
-
-
