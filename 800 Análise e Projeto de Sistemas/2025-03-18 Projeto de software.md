@@ -88,7 +88,7 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 - Definem o MVP
 - Quebra o produto em pedaços menores para 
   
-  TODO anotar mais tarde
+  TODO anotar mais tarde 
 
 ### Modelo espiral
 - Foco em interação entre todas as partes envolvidas a cada entrega
@@ -97,5 +97,8 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 ### Metodologia ágil
 - Interativo incremental fazendo entregas constantes significativas
 - 4 valores fundamentais e 12 princípios
-	- Macete: Cliente -> Equipe -> Processo -> Software pronto
-	- Cliente primeiro, equipe depois, 
+	- **Macete: Cliente -> Equipe -> Processo -> Software pronto**
+	1. Cliente: Interação acima de contratos
+	2. Equipe: O que importa são as pessoas, e não as ferramentas
+	3. Processo: Melhor estar aberto a mudanças do que seguir o plano
+	4. Software: Software funcional acima de documentação extensiva
