@@ -1,9 +1,9 @@
 **Matéria:** [[APS]]
-**Tópicos:** #requisitos #
+**Tópicos:** #requisitos #engenharia 
 
 
 > [!NOTE] Retomada
-> - Ciclos de vida: 
+> **- Ciclos de vida:** 
 > 	- um só
 > 	1. Levantamento de dados
 > 	2. Análise de requisitos
@@ -12,23 +12,27 @@
 > 	5. Testes
 > 	6. Implantação (Launch, produção)
 > 	7. Manutenção
-> - Cascata
+> **- Cascata**
 > 	- Uma fase por vez
 > 	- Uma entrega gigantesca
-> - Incremental
+> **- Incremental**
 > 	- Faz o mínimo, entrega, incrementa
 > 	- Problemas pequenos, mas distribuídos
 > 	- O cliente ainda não estava na jogada
-> - Espiral
+> **- Espiral**
 > 	- O cliente sempre participa
 > 	- Entregas constantes
 > 	- Conflitos com o cliente, muito técnico
-> - Metodologias ágeis
+> **- Metodologias ágeis**
 > 	- Cliente: menos contrato mais conversa
 > 	- Equipe: pessoas acima de ferramentas
-> 	- Processo: -
+> 	- Processo: --------------
 > 	- Software: Entrega funcional a documentação detalhada
 
+## Erros
+- Comunicação entre as partes
+- Interpretação errada, falta de claridade
+- Cliente não sabe o que quer, falta de conhecimento
 
-
-
+> [!NOTE] É necessário conhecer certo, analisar certo e descrever certo
+> 
