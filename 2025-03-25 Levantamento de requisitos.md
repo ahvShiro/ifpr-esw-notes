@@ -56,4 +56,13 @@
 **Prototipagem**
 - Produto com baixa funcionalidade para validação com cliente
 - Telas, desenhos, diagramas, fluxogramas
-**An**
+**Análise Documental**
+- Extrair os requisitos de documentos da empresa
+- Relatórios, formulários impressos, regimentos, avaliações
+
+## Cuidados 
+- Falta de permissão da empresa
+- Cuidados com a comunicação
+- Viés do engenheiro de requisitos
+- Interpretação dos dados
+- Uso de mais de uma técli
