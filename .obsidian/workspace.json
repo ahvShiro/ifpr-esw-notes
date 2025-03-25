@@ -109,13 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-25 Levantamento de requisitos"
+              "title": "Outline"
             }
           },
           {
@@ -124,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-25 Levantamento de requisitos"
+              "title": "Backlinks"
             }
           },
           {
@@ -143,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-03-25 Levantamento de requisitos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,6 +160,22 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "03d92477abb4a385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72bd134b63fe3c0e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,10 +192,11 @@
       "switcher:Open quick switcher": true,
       "templates:Insert template": true,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b3a939181ef63c6a",
+  "active": "f5b87a86ee91d350",
   "lastOpenFiles": [
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "README.md",
