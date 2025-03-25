@@ -68,4 +68,6 @@
 - Uso de mais de uma técnica
 
 ## Pesquisa para aula que vem: entrevista com o Edmar
-- 
+- https://www.capterra.com.br/blog/1665/os-5-melhores-softwares-de-controle-de-estoque-gratis
+- https://www.useawise.com/sistema-controle-estoque/
+- https://www.google.com/search?q=inventory%20management%20systems&newwindow=1&client=firefox-b-d&channel=entpr&sclient=gws-wiz-serp
