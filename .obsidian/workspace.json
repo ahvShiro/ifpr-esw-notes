@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
+                "file": "5. Banco de Dados II/2025-03-07 Script do Professor.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-18 Projeto de software"
+              "title": "2025-03-07 Script do Professor"
+            }
+          },
+          {
+            "id": "b3a939181ef63c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,12 +222,32 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5429f8c2626a9713",
+  "active": "b3a939181ef63c6a",
   "lastOpenFiles": [
-    "800 Análise e Projeto de Sistemas/2025-03-11 Introdução da disciplina.md",
-    "800 Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
-    "800 Análise e Projeto de Sistemas/APS.md",
+    "5. Banco de Dados II/BD_II.md",
+    "5. Banco de Dados II/2025-03-07 Script do Professor.md",
     "README.md",
+    "800 Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
+    "8. Análise e Projeto de Sistemas/APS.md",
+    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
+    "8. Análise e Projeto de Sistemas/2025-03-11 Introdução da disciplina.md",
+    "8. Análise e Projeto de Sistemas",
+    "7. Projeto de Extensão/Fichamento Pesquisa/Untitled.md",
+    "7. Projeto de Extensão/PEX.md",
+    "7. Projeto de Extensão/Fichamento Pesquisa",
+    "7. Projeto de Extensão/2025-03-07 TODO Relatório.md",
+    "7. Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
+    "7. Projeto de Extensão/2025-03-06 Fichamento de fontes.md",
+    "7. Projeto de Extensão",
+    "6. Programação Orientada a Objetos",
+    "5. Banco de Dados II",
+    "4. Arquitetura de Computadores/ARQ.md",
+    "4. Arquitetura de Computadores/2025-03-11 Sistemas numéricos.md",
+    "4. Arquitetura de Computadores",
+    "3. Algoritmos II",
+    "1. Cálculo",
+    "800 Análise e Projeto de Sistemas/2025-03-11 Introdução da disciplina.md",
+    "800 Análise e Projeto de Sistemas/APS.md",
     "700 Projeto de Extensão/Fichamento Pesquisa/Untitled.md",
     "Clippings/Bluetooth Troubleshooting.md",
     "Clippings",
@@ -225,27 +260,7 @@
     "700 Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
     "500 Banco de Dados II/2025-03-07.md",
     "500 Banco de Dados II/BD_II.md",
-    "400 Arquitetura de Computadores/ARQ.md",
-    "000 Assets/Templates/Template Anotação de Aulas.md",
-    "Untitled (266th copy).md",
-    "Untitled (265th copy).md",
-    "Untitled (264th copy).md",
-    "Untitled (263rd copy).md",
-    "Untitled (262nd copy).md",
-    "Untitled (261st copy).md",
-    "Untitled (260th copy).md",
-    "Untitled (259th copy).md",
-    "Untitled (258th copy).md",
-    "Untitled (257th copy).md",
-    "0. Assets/Untitled",
-    "000 Assets/Templates",
-    "000 Assets",
-    "000 Assets/Excalidraw",
-    "9. MDL",
     "Untitled.canvas",
-    "Ink/Writing/2024.10.30 - 15.38pm.writing",
-    "Ink/Writing",
-    "Ink",
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "1. ESW/Revisão ESW.canvas",

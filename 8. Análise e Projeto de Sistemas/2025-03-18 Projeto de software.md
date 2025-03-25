@@ -81,7 +81,6 @@ Analisando os SDLCs escolhidos, verificamos que nos modelos:
 6. Implantação (Launch, produção)
 7. Manutenção
 
-
 > [!NOTE] Existem vários processos/metodologias, mas apenas um CICLO (Tudo com o mesmo nome)
 
 ### Modelo Cascata
