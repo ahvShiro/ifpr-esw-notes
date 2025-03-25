@@ -35,7 +35,6 @@
 - Cliente não sabe o que quer, falta de conhecimento
 
 > [!NOTE] É necessário conhecer certo, analisar certo e descrever certo
-
 ## Técnica de levantamento de dados
 **Pesquisa de mercado**
 - Validar as dores antes de chegar no cliente

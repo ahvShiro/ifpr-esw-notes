@@ -89,7 +89,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,10 +200,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b3a939181ef63c6a",
+  "active": "b0803cf9542d0683",
   "lastOpenFiles": [
-    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
+    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "README.md",
     "5. Banco de Dados II/2025-03-07 Script do Professor.md",
     "5. Banco de Dados II/BD_II.md",
