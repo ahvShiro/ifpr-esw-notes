@@ -34,7 +34,7 @@
 - Cliente não sabe o que quer, falta de conhecimento
 
 > [!NOTE] É necessário conhecer certo, analisar certo e descrever certo
-> 
+
 ## Técnica de levantamento de dados
 **Pesquisa de mercado**
 - Validar as dores antes de chegar no cliente
@@ -59,10 +59,12 @@
 **Análise Documental**
 - Extrair os requisitos de documentos da empresa
 - Relatórios, formulários impressos, regimentos, avaliações
-
 ## Cuidados 
 - Falta de permissão da empresa
 - Cuidados com a comunicação
 - Viés do engenheiro de requisitos
 - Interpretação dos dados
-- Uso de mais de uma técli
+- Uso de mais de uma técnica
+
+## Pesquisa para aula que vem: entrevista com o Edmar
+- 
