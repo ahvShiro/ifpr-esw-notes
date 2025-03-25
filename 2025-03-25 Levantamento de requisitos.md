@@ -50,4 +50,10 @@
 **Workshop**
 - Participação de todos os stakeholders
 - Atividades feitas no escuro, para buscar uma solução em conjunto
-****
+**Joint Application Design**
+- Participação dos stakeholders
+- Atividades com a solução em mente, em busca da validação
+**Prototipagem**
+- Produto com baixa funcionalidade para validação com cliente
+- Telas, desenhos, diagramas, fluxogramas
+**An**
