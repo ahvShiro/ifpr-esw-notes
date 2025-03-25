@@ -46,7 +46,7 @@
     "type": "split",
     "children": [
       {
-        "id": "501776dfece818a8",
+        "id": "7d056086a3e6d2bd",
         "type": "tabs",
         "children": [
           {
@@ -78,6 +78,16 @@
             }
           },
           {
+            "id": "fc68eb8a2af5f8cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "f4230de2f26d495a",
             "type": "leaf",
             "state": {
@@ -95,20 +105,20 @@
             }
           },
           {
-            "id": "fc68eb8a2af5f8cf",
+            "id": "b0803cf9542d0683",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957
+    "width": 200
   },
   "right": {
     "id": "6c79a4f73f378171",
@@ -119,27 +129,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0803cf9542d0683",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "68c5d3350302288d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -185,8 +186,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c60b38cb8f936dad",
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,9 +224,9 @@
   },
   "active": "b3a939181ef63c6a",
   "lastOpenFiles": [
+    "README.md",
     "5. Banco de Dados II/BD_II.md",
     "5. Banco de Dados II/2025-03-07 Script do Professor.md",
-    "README.md",
     "800 Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "8. Análise e Projeto de Sistemas/APS.md",
     "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
