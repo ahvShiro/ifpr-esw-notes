@@ -89,8 +89,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b0803cf9542d0683",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
