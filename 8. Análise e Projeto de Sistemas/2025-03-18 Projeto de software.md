@@ -1,5 +1,5 @@
 **Matéria:** [[APS]]
-**Tópicos:** #atividade_em_equipe #SDLC #modelos_de_software#
+**Tópicos:** #atividade_em_equipe #SDLC #modelos_de_software
 
 ## Atividade em equipe
 
