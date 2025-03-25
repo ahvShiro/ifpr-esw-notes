@@ -109,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-03-25 Levantamento de requisitos"
             }
           },
           {
@@ -123,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-03-25 Levantamento de requisitos"
             }
           },
           {
@@ -141,11 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-03-25 Levantamento de requisitos"
             }
           },
           {
@@ -196,11 +199,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f5b87a86ee91d350",
+  "active": "b3a939181ef63c6a",
   "lastOpenFiles": [
+    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "README.md",
-    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "5. Banco de Dados II/2025-03-07 Script do Professor.md",
     "5. Banco de Dados II/BD_II.md",
     "800 Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
