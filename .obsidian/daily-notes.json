@@ -1,5 +1,5 @@
 {
-  "format": "YY-MM-DD",
+  "format": "YYYY-MM-DD",
   "template": "Assets/Templates/Template Anotação de Aulas",
   "autorun": false
 }
