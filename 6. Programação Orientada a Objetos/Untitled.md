@@ -22,5 +22,18 @@ classDiagram
     Usuario : String senha
     
 ```
-Problema 2: Sistema de Votação Online  
+
+**Problema 2: Sistema de Votação Online**  
 Uma escola quer criar um sistema online para eleger o representante de turma. Cada aluno poderá votar uma única vez em um dos candidatos. O sistema deve registrar os votos, garantir que ninguém vote duas vezes e exibir o vencedor ao final da votação. A proposta é criar uma aplicação simples e segura para conduzir eleições escolares.
+
+```mermaid
+classDiagram
+    class Aluno
+    Aluno : String nome
+    Aluno : String registroDeAluno
+    Aluno : Aluno voto
+    
+    class Candidato
+    
+    
+```
