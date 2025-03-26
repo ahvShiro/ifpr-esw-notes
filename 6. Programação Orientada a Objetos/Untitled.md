@@ -31,9 +31,30 @@ classDiagram
     class Aluno
     Aluno : String nome
     Aluno : String registroDeAluno
-    Aluno : Aluno voto
+    Aluno : Candidato alunoVotado
+    
+    Aluno <|-- Candidato : extends
     
     class Candidato
+    Candidato : Int votos
+    
+    
+```
+
+**Problema 3: Simulador de Corrida de Carros**  
+Um jogo de corrida está sendo desenvolvido e precisa simular o comportamento de diferentes carros durante uma prova. Cada carro tem um modelo e uma velocidade máxima. Durante a corrida, os carros devem ser capazes de acelerar, frear e mostrar seu status atual (como a velocidade no momento). O sistema deve representar essas ações de forma que os comportamentos possam ser testados e comparados.
+
+```mermaid
+classDiagram
+    class Aluno
+    Aluno : String nome
+    Aluno : String registroDeAluno
+    Aluno : Candidato alunoVotado
+    
+    Aluno <|-- Candidato : extends
+    
+    class Candidato
+    Candidato : Int votos
     
     
 ```
