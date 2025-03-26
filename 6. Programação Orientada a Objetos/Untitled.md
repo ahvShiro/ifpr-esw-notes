@@ -51,5 +51,9 @@ classDiagram
     Carro : String cor
     Carro : Double velocidadeMaxima
     Carro : Double velocidade
-    Carro : Candidato alunoVotado    
+    Carro : Date ano
+    Carro : Marca marca
+	class Marca
+	Marca : String nome
+	Marca : 
 ```
