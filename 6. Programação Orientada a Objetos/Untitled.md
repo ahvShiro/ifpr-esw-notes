@@ -7,27 +7,20 @@ Você está desenvolvendo um aplicativo de tarefas para ajudar usuários a organ
 ```mermaid
 classDiagram
     class Tarefa
-    Tarefa : Int id
-    Tarefa : Int idUsuario
     Tarefa : String titulo
     Tarefa : String descricao
-    Tarefa : Date dataVencimento
     Tarefa : Integer prioridade
+    Tarefa : Date dataVencimento
     Tarefa : Bool status
     Tarefa : Date criadoEm
     Tarefa : Date atualizadoEm
-    Tarefa : 
+    Tarefa : Usuario usuario
     
     class Usuario
-    Usuario : Int id
     Usuario : String nome
     Usuario : String email
     Usuario : String senha
-    Usuario : 
-    Usuario :
-    Usuario :
-    Usuario :
-    Usuario :
     
 ```
-
+Problema 2: Sistema de Votação Online  
+Uma escola quer criar um sistema online para eleger o representante de turma. Cada aluno poderá votar uma única vez em um dos candidatos. O sistema deve registrar os votos, garantir que ninguém vote duas vezes e exibir o vencedor ao final da votação. A proposta é criar uma aplicação simples e segura para conduzir eleições escolares.
