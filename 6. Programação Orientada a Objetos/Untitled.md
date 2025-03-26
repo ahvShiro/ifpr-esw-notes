@@ -55,5 +55,4 @@ classDiagram
     Carro : Marca marca
 	class Marca
 	Marca : String nome
-	Marca : 
 ```
