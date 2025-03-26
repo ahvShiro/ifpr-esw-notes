@@ -7,6 +7,8 @@ Você está desenvolvendo um aplicativo de tarefas para ajudar usuários a organ
 ```mermaid
 classDiagram
     class Tarefa
+    Tarefa : Int id
+    Tarefa : Int idUsuario
     Tarefa : String titulo
     Tarefa : String descricao
     Tarefa : Date dataVencimento
@@ -14,6 +16,18 @@ classDiagram
     Tarefa : Bool status
     Tarefa : Date criadoEm
     Tarefa : Date atualizadoEm
-    Tarefa : +void eat()
+    Tarefa : 
+    
+    class Usuario
+    Usuario : Int id
+    Usuario : String nome
+    Usuario : String email
+    Usuario : String senha
+    Usuario : 
+    Usuario :
+    Usuario :
+    Usuario :
+    Usuario :
+    
 ```
 
