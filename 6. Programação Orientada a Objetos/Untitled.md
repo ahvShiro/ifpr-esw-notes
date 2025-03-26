@@ -38,7 +38,6 @@ classDiagram
     class Candidato
     Candidato : Int votos
     Candidato : Date dataInscricao
-    Cand
     
 ```
 
