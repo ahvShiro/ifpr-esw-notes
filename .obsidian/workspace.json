@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73eef37f605d8c27",
+        "id": "6503589b870794df",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a939181ef63c6a",
+            "id": "72893d5440edd70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +89,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +200,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b0803cf9542d0683",
+  "active": "72893d5440edd70f",
   "lastOpenFiles": [
+    "Untitled.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "README.md",
@@ -237,7 +238,6 @@
     "400 Arquitetura de Computadores/2025-03-11 Sistemas numéricos.md",
     "700 Projeto de Extensão/2025-03-06 Fichamento de fontes.md",
     "700 Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
-    "500 Banco de Dados II/2025-03-07.md",
     "Untitled.canvas",
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "0. Assets/Screenshot 2024-09-08 234542.png",
