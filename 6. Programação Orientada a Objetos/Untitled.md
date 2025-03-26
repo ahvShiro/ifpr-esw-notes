@@ -46,15 +46,10 @@ Um jogo de corrida está sendo desenvolvido e precisa simular o comportamento de
 
 ```mermaid
 classDiagram
-    class Aluno
-    Aluno : String nome
-    Aluno : String registroDeAluno
-    Aluno : Candidato alunoVotado
-    
-    Aluno <|-- Candidato : extends
-    
-    class Candidato
-    Candidato : Int votos
-    
-    
+    class Carro
+    Carro : String modelo
+    Carro : String cor
+    Carro : Double velocidadeMaxima
+    Carro : Double velocidade
+    Carro : Candidato alunoVotado    
 ```
