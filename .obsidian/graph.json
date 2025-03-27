@@ -8,52 +8,59 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:APS",
+      "query": "path:\"1. Cálculo\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "file:EMP",
+      "query": "path:\"2. Empreendedorismo\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "file:AG_II",
+      "query": "path:\"3. Algoritmos II\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "",
+      "query": "path:\"4. Arquitetura de Computadores\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "",
+      "query": "path:\"5. Banco de Dados II\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "",
+      "query": "path:\"6. Programação Orientada a Objetos\"  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "",
+      "query": "path:\"7. Projeto de Extensão\"  ",
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"8. Análise e Projeto de Sistemas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.30165189824172606,
-  "close": false
+  "scale": 0.4714136044679538,
+  "close": true
 }
