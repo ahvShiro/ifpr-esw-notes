@@ -11,10 +11,14 @@
             "id": "72893d5440edd70f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6. Programação Orientada a Objetos/Introdução a programação orientada a objetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução a programação orientada a objetos"
             }
           },
           {
@@ -193,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "publish:Publish changes...": true,
@@ -205,12 +210,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "72893d5440edd70f",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
+    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
+    "4. Arquitetura de Computadores/2025-03-11 Sistemas numéricos.md",
     "Untitled.md",
     "6. Programação Orientada a Objetos/Introdução a programação orientada a objetos.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
-    "8. Análise e Projeto de Sistemas/2025-03-18 Projeto de software.md",
     "README.md",
     "5. Banco de Dados II/2025-03-07 Script do Professor.md",
     "5. Banco de Dados II/BD_II.md",
@@ -228,7 +234,6 @@
     "6. Programação Orientada a Objetos",
     "5. Banco de Dados II",
     "4. Arquitetura de Computadores/ARQ.md",
-    "4. Arquitetura de Computadores/2025-03-11 Sistemas numéricos.md",
     "4. Arquitetura de Computadores",
     "3. Algoritmos II",
     "1. Cálculo",
