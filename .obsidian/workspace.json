@@ -48,21 +48,6 @@
             }
           },
           {
-            "id": "52f752d63151ed2c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "f4230de2f26d495a",
             "type": "leaf",
             "state": {
@@ -77,6 +62,21 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "52f752d63151ed2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -184,7 +184,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9bd99e8f05c4db8c",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
     "7. Projeto de Extensão/2025-03-07 TODO Relatório.md",
     "7. Projeto de Extensão/2025-03-27 Protagonismo do aluno.md",
