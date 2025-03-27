@@ -163,26 +163,11 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "03d92477abb4a385",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72bd134b63fe3c0e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +184,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f5b87a86ee91d350",
+  "active": "9bd99e8f05c4db8c",
   "lastOpenFiles": [
+    "7. Projeto de Extensão/2025-03-07 TODO Relatório.md",
     "7. Projeto de Extensão/2025-03-27 Protagonismo do aluno.md",
     "7. Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
-    "7. Projeto de Extensão/2025-03-07 TODO Relatório.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "7. Projeto de Extensão/Fichamento Pesquisa/Untitled.md",
     "README.md",
