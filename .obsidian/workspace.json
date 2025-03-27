@@ -182,13 +182,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
+      "homepage:Open homepage": false,
       "command-palette:Open command palette": true,
       "publish:Publish changes...": true,
       "obsidian-kanban:Create new board": false,
@@ -200,11 +199,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9bd99e8f05c4db8c",
+  "active": "f5b87a86ee91d350",
   "lastOpenFiles": [
+    "7. Projeto de Extensão/2025-03-27 Protagonismo do aluno.md",
     "7. Projeto de Extensão/2025-03-06 Introdução à disciplina.md",
     "7. Projeto de Extensão/2025-03-07 TODO Relatório.md",
-    "7. Projeto de Extensão/2025-03-27 Protagonismo do aluno.md",
     "8. Análise e Projeto de Sistemas/2025-03-25 Levantamento de requisitos.md",
     "7. Projeto de Extensão/Fichamento Pesquisa/Untitled.md",
     "README.md",
