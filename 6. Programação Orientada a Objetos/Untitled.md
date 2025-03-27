@@ -53,6 +53,13 @@ classDiagram
     Carro : Double velocidade
     Carro : Date ano
     Carro : Marca marca
+    Carro : void acelerar()
+    Carro : void frear()
+    Carro : Double checarVelocidadeAtual()
+    Carro : Double checarVelocidadeMaxima()
+    Carro : String checarModelo()
+    Carro : String checarCor()
+	
 	class Marca
 	Marca : String nome
 ```
