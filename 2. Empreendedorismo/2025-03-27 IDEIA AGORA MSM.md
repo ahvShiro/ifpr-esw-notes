@@ -6,4 +6,6 @@
 - Sistema de pontuação para bitucas jogadas
 - Uma "lixeira" com um QR code, onde só se abre quando é escaneado
 	- Quando você joga, uma pontuação é dada
-	- 
+	- Possíveis colaborações com mercados e outras redes
+	- Cashback, talvez?
+	-
