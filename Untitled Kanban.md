@@ -6,17 +6,17 @@ kanban-plugin: board
 
 ## Para fazer
 
-- [ ] Fichamento do Artigo [[PEX]]
 - [ ] [[APS]] Documento Instrutivo: AI
-- [ ] [[ARQ]] Elaboração de questão
 
 
 ## Fazendo
 
+- [ ] [[PEX]] Fichamento do Artigo
 
 
 ## Dependência
 
+- [ ] [[ARQ]] Elaboração de questão
 
 
 ## Feito
