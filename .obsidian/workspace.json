@@ -11,21 +11,14 @@
             "id": "eef4ac8344cdfebb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -190,7 +183,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "homepage:Open homepage": false,
       "command-palette:Open command palette": true,
       "publish:Publish changes...": true,
       "obsidian-kanban:Create new board": false,
@@ -204,8 +196,8 @@
   },
   "active": "eef4ac8344cdfebb",
   "lastOpenFiles": [
-    "7. Projeto de Extensão/PEX.md",
     "Untitled Kanban.md",
+    "7. Projeto de Extensão/PEX.md",
     "Untitled.md",
     "2. Empreendedorismo/2025-03-27 IDEIA AGORA MSM.md",
     "2. Empreendedorismo/EMP.md",
