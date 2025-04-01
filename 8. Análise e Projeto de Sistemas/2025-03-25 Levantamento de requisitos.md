@@ -36,17 +36,28 @@
 
 > [!NOTE] É necessário conhecer certo, analisar certo e descrever certo
 ## Técnica de levantamento de dados
+
 **Pesquisa de mercado**
+
 - Validar as dores antes de chegar no cliente
+
 **Entrevista**
+
 - Perguntas e respostas
+
 **Etnografia**
+
 - Observação *in situ* do domínio da aplicação, de forma imersiva
+
 **Observação**
+
 - Registro *in situ* do domínio, de forma limitada pelas regras da empresa
 - Apenas observar a empresa, sem imersão
+
 **Questionário**
+
 - Perguntas estáticas, normalmente escritas
+
 **Workshop**
 - Participação de todos os stakeholders
 - Atividades feitas no escuro, para buscar uma solução em conjunto
